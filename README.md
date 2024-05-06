@@ -1,2 +1,2 @@
 # Learning Spring Boot
-## Using git to learn spring boot
+Learning Spring Boot by following the Amigoscode tutorial by Nelson.
